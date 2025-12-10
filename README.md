@@ -2,13 +2,13 @@
 
 Detailed QA analysis of an e-commerce platform.
 
-Project URL: [text](https://demo.evershop.io/)
+Project URL: [Demo Evershop](https://demo.evershop.io/)
 
 Tools: Postman, Chrome DevTools, Google Sheets, Google Docs
 
 ## Author
 
-@nobody1355
+[@nobody1355](https://github.com/nobody1355)
 
 ## Documentation
 
