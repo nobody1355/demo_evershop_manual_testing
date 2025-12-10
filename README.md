@@ -1,12 +1,14 @@
 # E-Commerce Website QA Testing Project - Manual and API Testing
 
-Detailed QA analysis of an e-commerce platform.
+Detailed QA analysis of an e-commerce platform, including UI functional testing, API validation, cross-verification of product variation behaviour, and documentation.
 
-Project Website: https://demo.evershop.io/
+**Website:** https://demo.evershop.io/
 
-Project Google Drive Link: https://drive.google.com/drive/folders/12xpdmtlDk7ffNoWKxFfzpTEVmEafNYus?usp=drive_link
+**Full Documentation:** [Google Drive Folder](https://drive.google.com/drive/folders/12xpdmtlDk7ffNoWKxFfzpTEVmEafNYus?usp=drive_link)
 
-Tools: Postman, Chrome DevTools, Google Sheets, Google Docs
+**Test Tools:** Postman, Chrome DevTools
+
+**Documentation Tools:** Google Sheets, Google Docs
 
 ## Author
 
