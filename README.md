@@ -8,7 +8,7 @@ Detailed QA analysis of an e-commerce platform, including UI functional testing,
 
 **Test Tools:** Postman, Chrome DevTools
 
-**Documentation Tools:** Google Sheets, Google Docs
+**Documentation Tools:** Google Sheets, Google Docs.
 
 ## Author
 
