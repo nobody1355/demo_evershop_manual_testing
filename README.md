@@ -2,7 +2,9 @@
 
 Detailed QA analysis of an e-commerce platform.
 
-Project URL: https://demo.evershop.io/
+Project Website: https://demo.evershop.io/
+
+Project Google Drive Link: https://drive.google.com/drive/folders/12xpdmtlDk7ffNoWKxFfzpTEVmEafNYus?usp=drive_link
 
 Tools: Postman, Chrome DevTools, Google Sheets, Google Docs
 
