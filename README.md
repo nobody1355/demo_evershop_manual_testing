@@ -12,7 +12,7 @@ Detailed QA analysis of an e-commerce platform, including UI functional testing,
 
 ## Author
 
-[@nobody1355](https://github.com/nobody1355)
+[@tomalgomes](https://github.com/tomalgomes)
 
 ## Documentation
 
